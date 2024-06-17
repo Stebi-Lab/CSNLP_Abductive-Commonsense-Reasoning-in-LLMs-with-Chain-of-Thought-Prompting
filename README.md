@@ -14,7 +14,7 @@ For reproducibility, we used a function that fixes all the seeds and set all the
 
 ## Installation
 To use this project, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/CSNLP_Abductive-Commonsense-Reasoning-in-LLMs-with-Chain-of-Thought-Prompting.git`
+1. Clone the repository: `git clone https://github.com/Stebi-Lab/CSNLP_Abductive-Commonsense-Reasoning-in-LLMs-with-Chain-of-Thought-Prompting.git`
 2. Run the cells inside the notebooks
 
 
